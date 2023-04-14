@@ -1,0 +1,10 @@
+To turn an R15 avatar into R6 without scripting, do the following:
+
+1. Open a baseplate (or anything else) on Roblox Studio. Pretty obvious, but some still don't know.
+2. On the top, remain on the 'Home' tab.
+3. Click on 'Game Settings'
+4. Click on the 'Avatar' tab, which can be found on the left.
+5. Then, on 'Avatar Type' and select 'R6'. On default it's set to R15.
+6. And from now on, even if a player's avatar is set to R15, it will be displayed as an R6.
+
+That's how you do it.
